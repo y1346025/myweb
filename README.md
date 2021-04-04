@@ -4,9 +4,7 @@
 		<link rel="stylesheet" href="stylesheets/main.css">
 		<script src="javasripts/main.js"></script>
 	</head>
-	
 	<body>
-		
 		<h1 style="color:DodgerBlue">About Me</h1><hr>
 		<p>
 		Tamkang University IIT2.<br>
